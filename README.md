@@ -1,6 +1,6 @@
 # Kaggle-competitions
 
-Notebooks from Kaggle competitions
+Notebooks from Kaggle competitions / projects:
 
 1) Titanic - learning from disaster
    - Binary classification of surviving the Titanic disaster
