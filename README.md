@@ -7,5 +7,5 @@ Notebooks from Kaggle competitions
    - Random Forest and XGBoost with hyper parameter tuning, ensembled by majority vote
   
 2) Income classifier
-   - Binary classification of income as above / below 50k based on various features
+   - The aim of this project was to compare various classification methods used in predicting whether the income of individuals is above or below 50K based on several features. I used KNN, logistic regression, random forest, decision tree and support vector machine. Random forest was the most effective binary method. This culminated in a poster.
      
